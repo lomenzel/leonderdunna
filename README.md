@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Leonard Menzel (@leonderdunna)
-- 👀 I’m interested in Web, Chromeos, Android
+- 👀 I’m interested in Web, Chromeos
 - 🌱 I’m currently learning NestJS/Angular
 - 📫 How to reach me: leonderdunna@gmail.com
