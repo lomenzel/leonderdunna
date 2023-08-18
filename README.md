@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Leonard Menzel (@leonderdunna)
-- 👀 I’m interested in Web, IPFS
-- 🌱 I’m currently learning NestJS/Angular
-- 📫 How to reach me: @menzel@social.linux.pizza
+- 👋 Hi, I’m Leonard Menzel (@lomenzel)
